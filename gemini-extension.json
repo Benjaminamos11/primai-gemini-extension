@@ -1,0 +1,12 @@
+{
+  "name": "primai",
+  "version": "1.0.0",
+  "description": "Swiss health insurance (Krankenkasse): 2027 premiums of all insurers (BAG open data), deductibles, cancelling, subsidies and help guides. No key, no personal data.",
+  "mcpServers": {
+    "primai": {
+      "httpUrl": "https://www.primai.ch/mcp",
+      "timeout": 30000
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
